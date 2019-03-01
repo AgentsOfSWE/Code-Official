@@ -1,0 +1,24 @@
+{
+	"type": "panel", 
+	"name": "G&B Plugins",
+	"id": "hello-webpack-plugin",
+	"metrics": true,
+	"annotations": false,
+	"info": {
+		"description": "Plugin template hello world test", 
+		"author": {
+			"name": "Agents of SWE", 
+			"url": "www.agentsofswe.com"
+		},
+		"keywords": [ ],
+		"logos": { },
+		"links": [ ], 
+		"screenshots": [ ], 
+		"version": "0.0.1", 
+		"updated": "2019-02-13"
+	},
+	"dependenices": {
+		"grafanaVersion": "4.6.x", 
+		"plugins": [ ]
+	}
+}

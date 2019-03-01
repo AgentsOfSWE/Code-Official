@@ -1,0 +1,22 @@
+<div class="editor-row">
+    <div class="section gf-form-group">
+        <h5 class="section-heading">Caricamento rete bayesiana</h5>
+
+        <div class="gf-form gf-form--v-stretch">
+            <span class="gf-form-label width-7">Edit rete bayesiana .json</span>
+            <textarea class="gf-form-input width-25 ng-pristine ng-valid ng-not-empty ng-touched" rows="3" ng-model="ctrl.panel.description" placeholder="Panel description, supports markdown &amp; links"></textarea>
+
+        </div>
+        <div class="gf-form">
+            <form class="form-class">
+                <dash-upload on-upload="ctrl.loadNetwork(dash)" class="ng-isolate-scope">
+                    <input type="file" id="dashupload" name="dashupload" class="hide" ng-change="ctrl.loadNetwork(dash)">
+                    <label class="btn btn-success ng-binding" for="dashupload">
+                        <i class="fa fa-upload"></i>
+                        Upload .json File
+                    </label>
+                </dash-upload>
+            </form>
+        </div>
+    </div>
+</div>
