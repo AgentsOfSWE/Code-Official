@@ -1,4 +1,5 @@
-# Agents of S.W.E.
+# Agents of S.W.E. 
+[![pipeline status](https://gitlab.com/MarcoChilese/agents-of-s.w.e.-code/badges/develop/pipeline.svg)](https://gitlab.com/MarcoChilese/agents-of-s.w.e.-code/commits/develop) [![codecov](https://codecov.io/gl/MarcoChilese/agents-of-s.w.e.-code/branch/develop/graph/badge.svg?token=CUrkr96diu)](https://codecov.io/gl/MarcoChilese/agents-of-s.w.e.-code)
 ### Repository ufficiale del gruppo per il progetto di Ingegneria del Software
 
 #### Componenti del Team 
