@@ -14,8 +14,8 @@ Luca Violato | 1127437 | luca.violato@studenti.unipd.it
 Email: agentsofswe@gmail.com
 
 #### Guida all'installazione 
-- Download ed installazione di Grafana: [Link al sito di Grafana](https://grafana.com/grafana/download/5.4.3); </br>
-***Importante**: installare la versione **5.4.3**. Per l'installazione su Mac evitare l'uso di Brew poichè esegue l'update alla versione 6.0.0.*
+Per una guida dettagliata si consiglia di consultare il Manuale dello Sviluppatore e il Manuale Utente.
+- Download ed installazione di Grafana: [Link al sito di Grafana](https://grafana.com/grafana/download); </br>
 - Configurazione di Grafana:
   - Inserire come sorgente dati **InfluxDB** con i seguenti parametri:
     - Url: `http://http://142.93.102.115:8086`;
